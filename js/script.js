@@ -138,7 +138,7 @@ class Page {
             const artistName = document.querySelectorAll('#historicSong article .music-info .artist')[n];
             const coverHistoric = document.querySelectorAll('#historicSong article .cover-historic')[n];
           
-            const defaultCoverArt = 'img/cover.png';
+            const defaultCoverArt = "https://xatimg.com/image/3GW2u5mK9Fgz.png";
           
             // Acessa as propriedades corretas do objeto 'info'
             songName.innerHTML = info.title; 
