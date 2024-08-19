@@ -1,4 +1,4 @@
-const RADIO_NAME = 'Radio Música Cristiana';
+const RADIO_NAME = 'Radio Jesús Dios de Poder';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
 const URL_STREAMING = 'https://stream.zeno.fm/iulto7nzk0jtv';
