@@ -1,7 +1,7 @@
 const RADIO_NAME = 'Radio Música Cristiana';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/e2fgp8rvh9duv';
+const URL_STREAMING = 'https://stream.zeno.fm/kyvcfnsvh9duv';
 
 //API URL /
 const API_URL = 'https://twj.es/radio_info/?radio_url='+URL_STREAMING
